@@ -28,7 +28,7 @@ A full-stack Expense Tracker web application that allows users to manage their i
 
 ---
 
-LIVE LINK : finance-platform-frontend.vercel.app
+LIVE LINK : https://finance-platform-frontend.vercel.app/login
 
 GITHUB :  https://github.com/rishika-chaudharyy/Finance-Platform.git
 
